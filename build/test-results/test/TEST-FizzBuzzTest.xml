@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-02-16T19:49:43" hostname="DESKTOP-ATMEA24" time="0.009">
+<testsuite name="FizzBuzzTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-02-16T19:52:04" hostname="DESKTOP-ATMEA24" time="0.005">
   <properties/>
-  <testcase name="whenFizzBuzzIsPassedAMultipleOfFiveItReturnsBuzz" classname="FizzBuzzTest" time="0.005"/>
+  <testcase name="whenFizzBuzzIsPassedAMultipleOfFiveItReturnsBuzz" classname="FizzBuzzTest" time="0.003"/>
   <testcase name="whenFizzBuzzIsPassedANumberItReturnsThatNumber" classname="FizzBuzzTest" time="0.0"/>
   <testcase name="whenFizzBuzzIsPassedATwoItReturnsATwo" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedAMultipleOfThreeAndFiveItReturnsFizzBuzz" classname="FizzBuzzTest" time="0.0"/>
   <testcase name="whenFizzBuzzIsPassedAMultipleOfThreeItReturnsFizz" classname="FizzBuzzTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
