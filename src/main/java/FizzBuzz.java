@@ -13,5 +13,10 @@ public class FizzBuzz {
 			return "buzz";
 		return inputNumber.toString();
 	}
+	
+	public static void main(String args[]) {
+		FizzBuzz fz = new FizzBuzz();
+		fz.fizz(5);
+	}
 
 }
