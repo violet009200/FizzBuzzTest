@@ -9,5 +9,11 @@ public class FizzBuzzTest {
 		FizzBuzz fizzbuzz = new FizzBuzz();
 		assertEquals("1", fizzbuzz.fizz(1));
 	}
+	
+	@Test
+	public void whenFizzBuzzIsPassedATwoItReturnsATwo() {
+		FizzBuzz fizzbuzz = new FizzBuzz();
+		assertEquals("2",fizzbuzz.fizz(2));
+	}
 
 }
